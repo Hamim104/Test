@@ -19,3 +19,4 @@ main
 <<<<<<< HEAD
 4yh line: pagol hoia jabo
 5th: dead
+6th line kobor
