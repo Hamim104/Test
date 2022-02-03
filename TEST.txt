@@ -1,2 +1,8 @@
 first file
 ki hoitase kisu bujhi na
+#include<stdio.h>
+
+int main(){
+
+	return 0;
+}
