@@ -1,3 +1,3 @@
-first file
-ki hoitase kisu bujhi na
+1st line: first file
+2nd line: ki korlam bujhlam na
 3rd line: matha kharap
