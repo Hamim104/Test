@@ -1,12 +1,15 @@
+ode-fix
 first file
 ki hoitase kisu bujhi na
-<<<<<<< HEAD
+ HEAD
 #include<stdio.h>
 
 int main(){
 
 	return 0;
 }
-=======
+1st line: first file
+2nd line: ki korlam bujhlam na
+main
 3rd line: matha kharap
->>>>>>> 16c241faab9affd34fd1de8faf6cc123323ae3c7
+
