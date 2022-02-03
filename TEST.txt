@@ -1,8 +1,12 @@
 first file
 ki hoitase kisu bujhi na
+<<<<<<< HEAD
 #include<stdio.h>
 
 int main(){
 
 	return 0;
 }
+=======
+3rd line: matha kharap
+>>>>>>> 16c241faab9affd34fd1de8faf6cc123323ae3c7
